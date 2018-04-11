@@ -145,5 +145,5 @@ var server = http.createServer(function (req, res) {
 });
 
 // Start it up
-server.listen(8000);
+server.listen(3000);
 console.log('Server running');
